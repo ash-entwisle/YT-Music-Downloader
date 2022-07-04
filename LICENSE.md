@@ -2,10 +2,10 @@
 
 **Version 1.0 July 2022 (c) Ash Entwisle (@brit-hakrperson)**
 
-Downloading copyrighted material can be against the law and against some services Terms of Service. By downloading this software, I will not accept any responsibility for the use/missuse of this software and you agree to the following terms
+Downloading copyrighted material can be against the law and against some services Terms of Service. By downloading this software, I will not accept any responsibility for the use/missuse of this software. And by agreeing to the terms, permission is granted to freely use, copy, edit, modify or distribute this software however you please with no restrictions what so ever.
 
 **By downloading this software you agree to the following terms:**
-
+ 
 * I am not responsible for any use/missuse of this software
 * This software comes as is, with no warranties
 * If you encounter a bug, raise an issue on github and I will try to fix it as and when I can
